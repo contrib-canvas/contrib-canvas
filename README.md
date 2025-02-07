@@ -11,3 +11,5 @@
 ## [Click here to get started!](https://github.com/dan-os/contrib-canvas)
 
 </div>
+
+Please note that this account is used for demo purposes and the inbox is not monitored!
